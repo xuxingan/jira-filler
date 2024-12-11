@@ -19,3 +19,6 @@
     ```
 3. 命令行示例：`python fill_work_time.py --username=test --content=供应商管理开发（100%） --template=1
 `
+## 应付爱知之星企业文小故事与TDL的小工具
+1. `story.py`根据现有的企业文化小故事生成同样风格故事
+2. `web.py`根据今日工作内容生成明日工作内容，并同步到jira，生成excel文件可复制到在线文档中
